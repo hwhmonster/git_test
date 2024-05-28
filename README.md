@@ -1,2 +1,2 @@
 # git_test
-测试仓库
+测试仓库 使用git进行push时输入用户名后，输入的密码是：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，有效期为90天，过期了需要重新申请。
